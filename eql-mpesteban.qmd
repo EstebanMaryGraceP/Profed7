@@ -162,8 +162,7 @@ $$
 
 *Solution*
 $$\begin{aligned}
-\displaystyle\lim_{x \to 2} \frac{x^2+3x-10}{x^2-4x+4}&=\displaystyle\lim_{x \to 2}\frac{(x+5)(x-2)}{(x-2)^2}\\&=\displaystyle\lim_{x \to 2}\frac{x+5}{x-2}\\&=-\infty
-\end{aligned}$$
+\displaystyle\lim_{x \to 2} \frac{x^2+3x-10}{x^2-4x+4}&=\displaystyle\lim_{x \to 2}\frac{(x+5)(x-2)}{(x-2)^2}\\&=\displaystyle\lim_{x \to 2}\frac{x+5}{x-2}\\&=-\infty\end{aligned}$$
 
 4. $\displaystyle\lim_{x \to +\infty}\frac{3x-1}{7-6x}$ $\left(\frac{+\infty}{-\infty}\right)$
 *Solution*
