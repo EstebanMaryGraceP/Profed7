@@ -1,5 +1,5 @@
 ---
-title: "exploring quarto and latex"
+title: "Exploring Quarto and Latex"
 author: "Marygrace Esteban"
 format: pdf
 editor: visual
@@ -86,10 +86,12 @@ Let $u=4+\sqrt x$. Then $du=\frac{1}{2\sqrt x}dx$ or $2du=\frac{dx}{\sqrt x}$. B
 \end{aligned}
 $$
 
-:::
+
 
 
 ::: {#htm:ParticularAntiderivatives}
+
+
 ### Particular Antiderivatives
 
 Now suppose that given a function $f(x)$, we wish to find a particular antiderivative $F(x)$ of $f(x)$ that satisfies a given condition. Such a condition is called an initial or boundary condition.
@@ -199,12 +201,15 @@ provided $\displaystyle\lim_{x \to a}\frac{f'(x)}{g'(x)}$ exists or $\displaysty
 
 ::: {#htm:remarks}
 *Remarks*
+
 L'Hospital's Rule, with suitable modifications, is valid if $"x \to a"$ is replaced by $"x \to a^+"$, $"x \to a^-"$, $"x \to +\infty"$ or $"x \to -\infty"$. 
 :::
 
 ::: {#exm:remarks}
 *Example*
+
 Evaluate the following limits.
+
 1. $\displaystyle\lim_{x \to 0} \frac{x^2-3x}{2x^2+x}$     $\frac{0}{0}$
 
 *Solution*.
@@ -328,6 +333,7 @@ $$ and $\displaystyle\lim_{x\to a}{g(x)=+\infty}$.
 :::
 
 ::: {#htm:remark}
+
 *Remark*
 
 L'Hospital's Rule works only for indeterminate forms of type $\frac{0}{0}$ and $\frac{\infty}{\infty}$. Any other indeterminate form must be expressed equivalently in one of these two forms if we wish to apply L'Hospital's Rule. For the new indeterminate forms described above, these conversions can be performed as described below.
