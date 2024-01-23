@@ -1,0 +1,148 @@
+---
+title: "Simple Interest and Simple Discount"
+author: "Marygrace Esteban"
+format: pptx
+editor: visual
+---
+
+## I.UNIT TITLE/CHAPTER TITLE:
+
+## Simple Interest and Simple Discount
+
+## 
+
+-   A. Simple Discount
+
+III\. LESSON OVERVIEW
+
+Money is invested or borrowed in thousands of transactions every day. When an investment is cashed in or when borrowed money is repaid, there is a fee that is collected or charged. This fee is called interest.
+
+In this chapter, you will learn how to calculate interest using simple interest. Although most financial transactions use compound interest (introduced in chapter 2), simple interest is still used in many short-term transactions.
+
+IV\. DESIRED LEARNING OUTCOMES
+
+At the end of the chapter, the students should be able to:
+
+1.define and understand the key terms
+
+2.calculate the peso amount of interest using simple interest formula
+
+3.calculate the principal, rate, time, or interest when the other three quantities are known
+
+4.use the more common formulas in calculating simple interest
+
+5.determine the face value, discount, proceeds, and maturity value of a promissory note
+
+V. LESSON CONTENT
+
+SIMPLE DISCOUNT
+
+In simple interest, the amount of interest is usually paid at the end of the period together with the principal In some instances however, the amount of interest is deducted in advance and is computed based on the maturity value. This type of interest is known as SIMPLE DISCOUNT OR DISCOUNT
+
+The Concept of Simple Discount
+
+Discount -- refers to the amount deducted from maturity value of an obligation. The price of using the money is, therefore, deducted in advance. In this case, the borrower pays the original sum of money borrowed at the end of the term at a specified discount rate. Thus the amount F  is due at the end of the term t  is charged as interest in advance at simple discount rate d.
+
+As a formula, the amount of discount also denoted by D, as in the case of a simple interest, is given by:
+
+D = Fdt  where, I is the Discount, F is the amount due, d is the discount rate and t is the term
+
+Formula for F, d, t
+
+F =  D/dt                     d = D/ft                       t = D/Fd
+
+EXAMPLE:
+
+1.     How much interest will be collected in advance from a loan of P15,000 for 2 years if the discount rate is 8%?
+
+Given:
+
+            F = 15, 000                d = 8%                        t = 2
+
+SOLUTION:
+
+Notice that the amount borrowed is interpreted as the future value of the loan. To solve D:
+
+            D = fdt
+
+              = 15, 000 (08)(2)
+
+                = P2,400
+
+On June 11, 2018, Mr. Suarez borrowed P6,000 from a credit union and was charged 410.00 for the loan. If the interest was deducted in advance, what was the discount rate? Assume that the loan shall be paid on December 20 of the same year.
+
+Given:
+
+            F = 6, 000      D = 410
+
+Solution: Using the Banker's Rule (actual time, ordinary interest) we can determine the term of the loan. Thus,
+
+            June 30-11    19
+
+            July                 31
+
+            August           31
+
+            September     30
+
+            October          31
+
+            November      30
+
+            December      20
+
+                                   192
+
+Hence;
+
+            t = 192
+
+                   360
+
+to solve for the discount rate:
+
+            d = D/ft          
+
+                 = 410   = .128125 or 12.81%
+
+                   6,000
+
+Mr. Bernardino borrowed a certain amount from a cooperative and was charged P2,000 deducted in advance. If the discount rate is 12% for 6 months, how much is the amount of loan.
+
+Given:
+
+                 I = 2,000        d = 12%                     t = 6 mos or .5
+
+SOLUTION:
+
+                 F = D/dt
+
+                    = 2,000
+
+                       (.12)(.5)
+
+                    = 33, 333.33
+
+to compute for the amount of discount, we shall use:
+
+     F = P + D (transpose)
+
+     D = F-P
+
+       = 3,000 -- 2, 520
+
+     D = 480.00
+
+I.       LEARNING ACTIVITIES
+
+1\. Find the present value pf P2,000 which is due at the end of 90 days at 5% simple discount.
+
+2\. How long will P3,000 accumulate to P3,050 if the discount rate is 4 ½ %?
+
+If a loan of P3,500 will be paid with P3,750 at the end of one year and 3 months, what is the simple discount rate?
+
+II.          ASSIGNMENT
+
+III.          REFERENCES
+
+## 
